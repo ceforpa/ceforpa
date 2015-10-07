@@ -1,0 +1,6 @@
+Reglas
+
+-Tareas se nombran con verbos concretos.
+-Color Prioridades (rojo-prioritarias, amarillo-intermedio, verdes-poca)
+-Cada fila hace referencia a un miembro del grupo.
+-Revisar tablero diariamente.
